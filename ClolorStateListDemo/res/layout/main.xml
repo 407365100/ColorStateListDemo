@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:background="@android:color/white">
+    <TextView
+            android:id="@+id/tv_txt"
+            android:padding="10dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:focusable="true"
+            android:clickable="true"
+            android:text="晨报讯备受关注的中国第一、世界第二高楼上海中心大厦目前已经完工，正在积极准备相关事宜，即将正式开业。最令游客向往的可直达119层观光平台的快速电梯已安装完毕，其速度可达每秒18米，55秒可抵达上海中心119层观光平台。"/>
+</LinearLayout>
+
